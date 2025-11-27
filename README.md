@@ -1,2 +1,2 @@
-Découverte de l’interface GitHub
+Découverte de l’interface GitHub.
 Commit directly to the main branch
